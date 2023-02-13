@@ -1,0 +1,13 @@
+node_modules
+
+/build
+/public/build
+.env
+.idea/*
+
+/cypress/screenshots
+/cypress/videos
+/postgres-data
+
+
+dbschema/edgeql-js
